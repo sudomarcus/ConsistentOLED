@@ -127,7 +127,7 @@
        ]
     },
     "colours": {
-       "PRIMARY_DARK": "#000000",
+       "PRIMARY_DARK": "#000000"
     },
     "unsafe_colors": {
        "CHAT_GREY": "#000000"
